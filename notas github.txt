@@ -1,4 +1,5 @@
 comandos utilizados en el video de GitHub:
+link de video https://www.youtube.com/watch?v=44ziZ12rJwU
 
 ruta de GitHub local: C:\Users\Crosvy\Documents\U MARIANO GALVEZ\2025\SEMESTRE I\Base de datos II\GITHUB>
 
