@@ -1,0 +1,15 @@
+comandos utilizados en el video de GitHub:
+
+git init: Para inicializar un repositorio Git localmente.
+
+git remote add origin <URL del repositorio>: Para vincular el repositorio local con el repositorio remoto en GitHub.
+
+git status: Para verificar el estado de los archivos en el repositorio local (si han sido modificados, agregados, etc.).
+
+git add <nombre_del_archivo> o git add .: Para agregar archivos al área de preparación (staging area) para ser incluidos en el próximo commit.
+
+git commit -m "Mensaje descriptivo": Para crear un commit con los cambios preparados, incluyendo un mensaje descriptivo del cambio.
+
+git push: Para subir los commits al repositorio remoto en GitHub.
+
+git push --set-upstream origin master: Para establecer la branch master como la branch de seguimiento por primera vez al hacer push.
